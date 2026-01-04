@@ -1,4 +1,4 @@
----
+0xd781DD68e17273309E82819eEf2d4Cf8368F61e0---
 title: Authenticating with a GitHub App on behalf of a user
 shortTitle: Authenticate on behalf of users
 intro: '{% data reusables.shortdesc.identifying_and_authorizing_github_apps %}'
